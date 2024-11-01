@@ -1,5 +1,5 @@
 # 说明
-本仓库修改与仓库：[face_classification](https://github.com/oarriaga/face_classification/)
+本仓库修改于仓库：[face_classification](https://github.com/oarriaga/face_classification/)
 
 原仓库使用 OpenCV 进行人脸检测，但准确度不够高，因此后改用 [MTCNN](https://github.com/kpzhang93/MTCNN_face_detection_alignment) 增加检测准确率。
 
